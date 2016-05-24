@@ -1,0 +1,9 @@
+{
+    
+  "name": "AMesage",  
+  "short_name": "AMessage",  
+  "start_url": "/Login.html",  
+  "display": "standalone",  
+  "gcm_sender_id": "518113903216"
+
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AMessage</string>
+    <string name="action_settings">Logout</string>
+    <string name="title_activity_thread">Thread</string>
+    <string name="title_activity_add_thread">AddThread</string>
+    <string name="gcm_defaultSenderId">1234</string>
+    <string name="google_app_id">1234</string>
+    <string name="appTitle">AMessage</string>
+    <string name="login_signedUp">Already Signed Up?</string>
+    <string name="send_message">Send</string>
+    <string name="message_hint">Message</string>
+</resources>

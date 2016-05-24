@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_id": "amessage-87be1",
+    "project_number": "518113903216",
+    "name": "amessage"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518113903216:android:b53cc89950b0ea45",
+        "client_id": "android:goobs.amessage",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "goobs.amessage",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
